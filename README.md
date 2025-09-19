@@ -48,8 +48,8 @@ Price (EGP)
 
 Clone this repository:
 
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/Anasmo27/house-price.git
+cd house-price
 
 
 Install dependencies:
